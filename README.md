@@ -1,2 +1,2 @@
 # homework
-Data Analysis &amp; Visualization Homework
+Provided Kickstarter startup data manipulated and used for inference
